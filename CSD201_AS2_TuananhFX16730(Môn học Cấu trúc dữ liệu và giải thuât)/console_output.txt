@@ -1,0 +1,281 @@
+Choose one of this options:
+Product list: 
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+Input new ID: 
+Input Product's Name: 
+Input Product's quantity: 
+Input Product's price: 
+Choose one of this options:
+Product list: 
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+ID |  Title   | Quantity | price
+-------------------------------------
+P08 | Apple | 5 | 4.3
+
+P05 | Rose | 7 | 15.4
+
+P20 | Beer | 9 | 12.2
+
+P01 | Miliket | 10 | 5.2
+
+P04 | Book | 9 | 5.2
+
+4 | 4 | 4 | 4.0
+
+5 | 5 | 5 | 5.0
+
+3 | 3 | 3 | 3.0
+
+P06 | Cafe | 15 | 21.0
+
+6 | 6 | 6 | 6.0
+
+P25 | egg | 100 | 10.0
+
+Choose one of this options:
+Product list: 
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+Choose one of this options:
+Product list: 
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+Input the ID to search = 
+Khong tim thay san pham
+Choose one of this options:
+Product list: 
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+Input the ID to search = 
+6 | 6 | 6 | 6.0
+
+Choose one of this options:
+Product list: 
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+Input the bcode to delete = 
+Deleted!
+Choose one of this options:
+Product list: 
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+ID |  Title   | Quantity | price
+-------------------------------------
+P08 | Apple | 5 | 4.3
+
+P05 | Rose | 7 | 15.4
+
+P20 | Beer | 9 | 12.2
+
+P01 | Miliket | 10 | 5.2
+
+P04 | Book | 9 | 5.2
+
+4 | 4 | 4 | 4.0
+
+5 | 5 | 5 | 5.0
+
+3 | 3 | 3 | 3.0
+
+P06 | Cafe | 15 | 21.0
+
+P25 | egg | 100 | 10.0
+
+Choose one of this options:
+Product list: 
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+ID |  Title   | Quantity | price
+-------------------------------------
+3 | 3 | 3 | 3.0
+
+4 | 4 | 4 | 4.0
+
+5 | 5 | 5 | 5.0
+
+P01 | Miliket | 10 | 5.2
+
+P04 | Book | 9 | 5.2
+
+P05 | Rose | 7 | 15.4
+
+P06 | Cafe | 15 | 21.0
+
+P08 | Apple | 5 | 4.3
+
+P20 | Beer | 9 | 12.2
+
+P25 | egg | 100 | 10.0
+
+Choose one of this options:
+Product list: 
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+Quantity = 3 => 11
+Choose one of this options:
+Product list: 
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+P25 | egg | 100 | 10.0
+
+6 | 6 | 6 | 6.0
+
+P06 | Cafe | 15 | 21.0
+
+3 | 3 | 3 | 3.0
+
+5 | 5 | 5 | 5.0
+
+4 | 4 | 4 | 4.0
+
+P04 | Book | 9 | 5.2
+
+P01 | Miliket | 10 | 5.2
+
+P20 | Beer | 9 | 12.2
+
+P05 | Rose | 7 | 15.4
+
+P08 | Apple | 5 | 4.3
+
+Choose one of this options:
+Product list: 
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+P08 | Apple | 5 | 4.3
+
+P05 | Rose | 7 | 15.4
+
+P20 | Beer | 9 | 12.2
+
+P01 | Miliket | 10 | 5.2
+
+P04 | Book | 9 | 5.2
+
+4 | 4 | 4 | 4.0
+
+5 | 5 | 5 | 5.0
+
+3 | 3 | 3 | 3.0
+
+P06 | Cafe | 15 | 21.0
+
+6 | 6 | 6 | 6.0
+
+P25 | egg | 100 | 10.0
+
+Choose one of this options:
+Product list: 
+1. Load data from file and display
+2. Input & add to the end
+3. Display data
+4. Save product list to file
+5. Search by ID
+6. Delete by ID
+7. Sort by ID
+8. Convert to Binary
+9. Load to stack and display
+10. Load to queue and display
+0. Exit
+Good bye !!!
